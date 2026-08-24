@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Suryansh Pandey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Python+%7C+Java+%7C+Web+Developer;DSA+%7C+Problem+Solving+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech%20CSE%20Student;Aspiring%20Software%20Engineer;Python%20%7C%20Java%20%7C%20Web%20Developer;DSA%20%7C%20Problem%20Solving%20Enthusiast;Always%20Learning%20Something%20New%20%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=suryanshpandey422-lang&style=for-the-badge&color=blue" alt="Profile views" />
 
@@ -55,12 +55,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=suryanshpandey422-lang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpandey422-lang&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=suryanshpandey422-lang&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpandey422-lang&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=suryanshpandey422-lang&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=suryanshpandey422-lang&amp;theme=tokyonight&amp;hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suryanshpandey422-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=suryanshpandey422-lang&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshpandey422-lang&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshpandey422-lang&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -113,6 +113,6 @@ Open Source               ██████████░░░░░░░░
 
 ### 💡 "Code. Learn. Build. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=36BCF7&amp;height=100&amp;section=footer" width="100%" alt="Animated footer" />
 
 </div>
