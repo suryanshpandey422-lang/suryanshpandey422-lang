@@ -55,12 +55,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryanshpandey422-lang&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpandey422-lang&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=suryanshpandey422-lang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpandey422-lang&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=suryanshpandey422-lang&amp;theme=tokyonight&amp;hide_border=true" width="70%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=suryanshpandey422-lang&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suryanshpandey422-lang&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=suryanshpandey422-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -80,13 +80,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshpandey422-lang&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshpandey422-lang&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Our Goals
+
+> 🚀 **Building skills today for a strong software engineering career tomorrow.**
+
+- 🧠 **Master DSA & Problem Solving** — Solve problems consistently and strengthen core CS fundamentals.
+- 💻 **Become a Strong Software Engineer** — Improve Java, Python, web development and system-building skills.
+- 🤖 **Build Real-World Projects** — Create useful applications that solve practical problems.
+- 🌐 **Grow in Open Source** — Contribute regularly and learn from the developer community.
+- 📈 **Improve Every Day** — Stay consistent with coding, learning and building.
+- 🎯 **Career Goal** — Become a skilled, industry-ready Software Engineer.
 
 ```text
 DSA & Problem Solving     ███████████████░░░░░  75%
@@ -113,6 +122,6 @@ Open Source               ██████████░░░░░░░░
 
 ### 💡 "Code. Learn. Build. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=36BCF7&amp;height=100&amp;section=footer" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="Animated footer" />
 
 </div>
