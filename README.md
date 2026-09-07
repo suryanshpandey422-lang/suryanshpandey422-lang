@@ -128,15 +128,31 @@ I'm a Computer Science & Engineering student passionate about **software develop
 
 <div align="center">
 
-### Let's connect, collaborate & build something meaningful! 🚀
+### 🚀 Let's Connect & Build Together!
 
-<a href="https://github.com/suryanshpandey422-lang">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p>
+  <a href="https://github.com/suryanshpandey422-lang">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20%26%20Collaborate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-**💡 Open to:** Open Source • Collaborations • Projects • Learning Opportunities
+<table>
+<tr>
+<td align="center">💻<br/><b>Projects</b><br/>Let's build useful products</td>
+<td align="center">🌐<br/><b>Open Source</b><br/>Let's contribute together</td>
+<td align="center">🤝<br/><b>Collaboration</b><br/>Let's learn & grow</td>
+</tr>
+</table>
+
+<br/>
+
+### 💬 Have an idea or want to collaborate?
+**Feel free to connect — I'm always excited to learn, build and create! 🚀**
 
 </div>
 
