@@ -111,8 +111,19 @@ Open Source               ██████████░░░░░░░░
 
 <div align="center">
 
-<a href="https://github.com/suryanshpandey422-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 🤝 Let's Connect & Collaborate!
+
+<p>
+  <a href="https://github.com/suryanshpandey422-lang">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>💡 <b>Open to:</b> Collaborations • Open Source • Projects • Learning</p>
+<p>🚀 <b>Let's build, learn and grow together!</b></p>
 
 </div>
 
