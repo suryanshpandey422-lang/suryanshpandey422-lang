@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Suryansh Pandey
 
-### 💻 Aspiring Software Engineer | B.Tech CSE Student | Open Source Contributor
+### B.Tech CSE Student | Aspiring Software Engineer | Data Analytics Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+real-world+projects+%F0%9F%9A%80;Solving+DSA+problems+%F0%9F%A7%A0;Learning+Java+%7C+Python+%7C+Web+Development;Exploring+Open+Source+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+Real-World+Projects+%F0%9F%9A%80;Solving+DSA+Problems+%F0%9F%A7%A0;Learning+Java+%7C+Python+%7C+Web+Development;Exploring+Data+Analytics+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=suryanshpandey422-lang&style=for-the-badge&color=36BCF7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=suryanshpandey422-lang&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -14,66 +14,110 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science & Engineering student passionate about **software development, problem solving, and building practical projects**.
+I'm a **Computer Science & Engineering student** passionate about software development, problem solving, data analytics, and building practical projects.
 
-- 🎓 B.Tech CSE Student
+- 🎓 B.Tech Computer Science & Engineering | 2025–2029
 - 💻 Aspiring **Software Engineer**
-- 🧠 Strengthening **DSA & core programming concepts**
-- ☕ Learning and building with **Java & Python**
-- 🌐 Exploring **Web Development & APIs**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🐍 Working with **Python, Pandas & NumPy** for data analysis
+- ☕ Learning **Java & Object-Oriented Programming**
+- 🌐 Exploring **Web Development, APIs & Backend Development**
 - 🤝 Interested in **Open Source & Developer Collaboration**
-- 📈 Focused on becoming **industry-ready through consistent practice**
+- 💼 Completed a **Frontend Developer Internship at CodeAlpha**
+- 🌱 Always learning, building and improving
 
-> 💡 **My mindset:** Learn → Build → Solve → Improve → Repeat.
+> 💡 **Learn → Build → Solve → Improve → Repeat.**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming & Development
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📊 Data & Tools
+### 📊 Data & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💼 Featured Projects
+## 📊 Data Analytics Skills
 
-<div align="center">
-
-| 🚀 Project | 🔎 What I Built | 🧰 Technologies |
-|:---:|:---|:---:|
-| 📚 **Smart Study Hub** | Multi-page study-focused website | HTML • CSS |
-| 💰 **Personal Finance Tracker** | Transaction analysis, anomaly detection & Excel reports | Python • Pandas • NumPy |
-| 🤖 **ComplyAI** | AI-powered web application | React • Vite • FastAPI |
-| 🎯 **Number Guessing Game** | GUI game with persistent scoreboard | Python • Tkinter • JSON |
-
-</div>
+- 🧹 Data Cleaning & Preprocessing
+- 🔍 Exploratory Data Analysis (EDA)
+- 📈 Data Visualization
+- 🐍 Python for Analytics
+- 🐼 Pandas & NumPy
+- 🗃️ SQL & Data Handling
+- 🚨 Anomaly Detection
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Featured Projects
 
-```text
-🧠 Data Structures & Algorithms
-☕ Java & Object-Oriented Programming
-🐍 Python & Data Analysis
-🌐 Full-Stack Web Development
-🤝 Open Source Contributions
-💼 Software Engineering Preparation
-```
+### 💰 Personal Finance Tracker
+
+Built a finance analysis system that reads transaction data, categorizes spending, detects anomalies, generates monthly summaries, and exports Excel reports.
+
+**Tech Stack:** Python • Pandas • NumPy • Excel
+
+### 🤖 ComplyAI
+
+Built an AI-powered web application with a modern frontend and FastAPI backend.
+
+**Tech Stack:** React • Vite • FastAPI • Python
+
+### 📚 Smart Study Hub
+
+Created a multi-page study-focused website with a clean and user-friendly interface.
+
+**Tech Stack:** HTML • CSS
+
+### 🎯 Number Guessing Game
+
+Developed a Python GUI game with a persistent JSON-based scoreboard.
+
+**Tech Stack:** Python • Tkinter • JSON
+
+---
+
+## 🎯 Current Goals
+
+- 🧠 Solve **500+ DSA Problems**
+- ☕ Strengthen **Java & Core CS Fundamentals**
+- 📊 Improve **Data Analytics & SQL Skills**
+- 🌐 Build more **Real-World Full-Stack Projects**
+- 🤝 Make meaningful **Open Source Contributions**
+- 💼 Become **Industry-Ready for Software Engineering Roles**
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🌐 **GSSOC 2026 Participant / Open Source Contributor**
+- 💼 **CodeAlpha Frontend Developer Internship** completed
+- 🏆 Received **Letter of Recommendation** from internship
+- 🚀 Built and deployed multiple personal projects
+- 🧠 Consistently practicing **DSA & Problem Solving**
 
 ---
 
@@ -92,28 +136,6 @@ I'm a Computer Science & Engineering student passionate about **software develop
 
 ---
 
-## 🏆 Achievements & Activities
-
-- 🌐 Participating in **Open Source** initiatives
-- 💻 Building and maintaining personal development projects
-- 🧠 Practicing **DSA & competitive problem solving**
-- 🚀 Continuously learning modern software development technologies
-
----
-
-## 🎯 Goals
-
-> **Building skills today for a strong software engineering career tomorrow.** 🚀
-
-- 🧠 Master DSA & problem solving
-- 💻 Become a strong software engineer
-- 🤖 Build impactful real-world projects
-- 🌐 Make meaningful open-source contributions
-- 📚 Strengthen core CS fundamentals
-- 📈 Improve consistently every day
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -124,35 +146,43 @@ I'm a Computer Science & Engineering student passionate about **software develop
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-### 🚀 Let's Connect & Build Together!
+### 🤝 Let's Connect, Collaborate & Build Together!
 
-<p>
-  <a href="https://github.com/suryanshpandey422-lang">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20%26%20Collaborate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://github.com/suryanshpandey422-lang">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<br/>
+<br/><br/>
 
 <table>
 <tr>
-<td align="center">💻<br/><b>Projects</b><br/>Let's build useful products</td>
-<td align="center">🌐<br/><b>Open Source</b><br/>Let's contribute together</td>
-<td align="center">🤝<br/><b>Collaboration</b><br/>Let's learn & grow</td>
+<td align="center" width="220">
+<h3>💻 Projects</h3>
+Building practical & useful applications
+</td>
+<td align="center" width="220">
+<h3>🌐 Open Source</h3>
+Learning, contributing & collaborating
+</td>
+<td align="center" width="220">
+<h3>🤝 Collaboration</h3>
+Let's build something meaningful
+</td>
 </tr>
 </table>
 
 <br/>
 
-### 💬 Have an idea or want to collaborate?
-**Feel free to connect — I'm always excited to learn, build and create! 🚀**
+### 💬 Open to
+
+**Open Source • Projects • Collaborations • Learning Opportunities**
+
+### 🚀 Have an idea?
+**Let's connect, learn and build together!**
 
 </div>
 
@@ -162,6 +192,6 @@ I'm a Computer Science & Engineering student passionate about **software develop
 
 ### 💻 Code. Learn. Build. Repeat. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%" alt="Animated Footer" />
 
 </div>
