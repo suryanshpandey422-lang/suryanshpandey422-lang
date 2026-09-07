@@ -121,70 +121,13 @@ Developed a Python GUI game with a persistent JSON-based scoreboard.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suryanshpandey422-lang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpandey422-lang&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=suryanshpandey422-lang&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshpandey422-lang&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
-<div align="center">
+📧 Email: **suryanshpandey422@gmail.com**
 
-### 🤝 Let's Connect, Collaborate & Build Together!
+💼 LinkedIn: **Add your LinkedIn profile link here**
 
-<a href="https://github.com/suryanshpandey422-lang">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="220">
-<h3>💻 Projects</h3>
-Building practical & useful applications
-</td>
-<td align="center" width="220">
-<h3>🌐 Open Source</h3>
-Learning, contributing & collaborating
-</td>
-<td align="center" width="220">
-<h3>🤝 Collaboration</h3>
-Let's build something meaningful
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 💬 Open to
-
-**Open Source • Projects • Collaborations • Learning Opportunities**
-
-### 🚀 Have an idea?
-**Let's connect, learn and build together!**
-
-</div>
+📍 Lucknow, India
 
 ---
 
