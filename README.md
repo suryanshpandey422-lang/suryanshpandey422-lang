@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Suryansh Pandey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech%20CSE%20Student;Aspiring%20Software%20Engineer;Python%20%7C%20Java%20%7C%20Web%20Developer;DSA%20%7C%20Problem%20Solving%20Enthusiast;Always%20Learning%20Something%20New%20%F0%9F%9A%80" alt="Typing SVG" />
+### 💻 Aspiring Software Engineer | B.Tech CSE Student | Open Source Contributor
 
-<img src="https://komarev.com/ghpvc/?username=suryanshpandey422-lang&style=for-the-badge&color=blue" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+real-world+projects+%F0%9F%9A%80;Solving+DSA+problems+%F0%9F%A7%A0;Learning+Java+%7C+Python+%7C+Web+Development;Exploring+Open+Source+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=suryanshpandey422-lang&style=for-the-badge&color=36BCF7" alt="Profile views" />
 
 </div>
 
@@ -12,42 +14,66 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student
+I'm a Computer Science & Engineering student passionate about **software development, problem solving, and building practical projects**.
+
+- 🎓 B.Tech CSE Student
 - 💻 Aspiring **Software Engineer**
-- 🧠 Currently improving **DSA, Java, Python and problem solving**
-- 🌱 Building projects and learning modern development tools
-- 🤝 Open to collaboration, open-source contributions and exciting projects
-- ⚡ Fun fact: I enjoy turning ideas into working projects!
+- 🧠 Strengthening **DSA & core programming concepts**
+- ☕ Learning and building with **Java & Python**
+- 🌐 Exploring **Web Development & APIs**
+- 🤝 Interested in **Open Source & Developer Collaboration**
+- 📈 Focused on becoming **industry-ready through consistent practice**
+
+> 💡 **My mindset:** Learn → Build → Solve → Improve → Repeat.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
+### 💻 Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 📊 Data & Tools
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🔎 What I Built | 🧰 Technologies |
+|:---:|:---|:---:|
+| 📚 **Smart Study Hub** | Multi-page study-focused website | HTML • CSS |
+| 💰 **Personal Finance Tracker** | Transaction analysis, anomaly detection & Excel reports | Python • Pandas • NumPy |
+| 🤖 **ComplyAI** | AI-powered web application | React • Vite • FastAPI |
+| 🎯 **Number Guessing Game** | GUI game with persistent scoreboard | Python • Tkinter • JSON |
 
 </div>
 
 ---
 
-## 💻 Featured Projects
+## 🎯 Current Focus
 
-| Project | Description | Tech |
-|---|---|---|
-| 📚 **Smart Study Hub** | Multi-page study-focused website | HTML, CSS |
-| 💰 **Personal Finance Tracker** | Transaction analysis, anomaly detection & Excel reports | Python, NumPy, Pandas |
-| 🤖 **ComplyAI** | AI-powered web application | React, Vite, FastAPI |
-| 🎯 **Number Guessing Game** | GUI game with persistent scoreboard | Python, Tkinter, JSON |
+```text
+🧠 Data Structures & Algorithms
+☕ Java & Object-Oriented Programming
+🐍 Python & Data Analysis
+🌐 Full-Stack Web Development
+🤝 Open Source Contributions
+💼 Software Engineering Preparation
+```
 
 ---
 
@@ -66,13 +92,25 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Activities
 
-<div align="center">
+- 🌐 Participating in **Open Source** initiatives
+- 💻 Building and maintaining personal development projects
+- 🧠 Practicing **DSA & competitive problem solving**
+- 🚀 Continuously learning modern software development technologies
 
-<img src="https://github-profile-trophy.vercel.app/?username=suryanshpandey422-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+---
 
-</div>
+## 🎯 Goals
+
+> **Building skills today for a strong software engineering career tomorrow.** 🚀
+
+- 🧠 Master DSA & problem solving
+- 💻 Become a strong software engineer
+- 🤖 Build impactful real-world projects
+- 🌐 Make meaningful open-source contributions
+- 📚 Strengthen core CS fundamentals
+- 📈 Improve consistently every day
 
 ---
 
@@ -86,44 +124,19 @@
 
 ---
 
-## 🎯 Our Goals
-
-> 🚀 **Building skills today for a strong software engineering career tomorrow.**
-
-- 🧠 **Master DSA & Problem Solving** — Solve problems consistently and strengthen core CS fundamentals.
-- 💻 **Become a Strong Software Engineer** — Improve Java, Python, web development and system-building skills.
-- 🤖 **Build Real-World Projects** — Create useful applications that solve practical problems.
-- 🌐 **Grow in Open Source** — Contribute regularly and learn from the developer community.
-- 📈 **Improve Every Day** — Stay consistent with coding, learning and building.
-- 🎯 **Career Goal** — Become a skilled, industry-ready Software Engineer.
-
-```text
-DSA & Problem Solving     ███████████████░░░░░  75%
-Java Development          ████████████░░░░░░░░  60%
-Python & Data Analysis    ███████████████░░░░░  75%
-Web Development           ██████████████░░░░░░  70%
-Open Source               ██████████░░░░░░░░░░  50%
-```
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+### Let's connect, collaborate & build something meaningful! 🚀
 
-<p>
-  <a href="https://github.com/suryanshpandey422-lang">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/suryanshpandey422-lang">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<p>💡 <b>Open to:</b> Collaborations • Open Source • Projects • Learning</p>
-<p>🚀 <b>Let's build, learn and grow together!</b></p>
+<br/><br/>
+
+**💡 Open to:** Open Source • Collaborations • Projects • Learning Opportunities
 
 </div>
 
@@ -131,8 +144,8 @@ Open Source               ██████████░░░░░░░░
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### 💻 Code. Learn. Build. Repeat. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%" alt="Animated footer" />
 
 </div>
